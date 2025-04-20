@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="homm_iu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/homm_iu_jar</output-path>
+    <root id="archive" name="homm_iu.jar">
+      <element id="module-output" name="homm_iu" />
+    </root>
+  </artifact>
+</component>
